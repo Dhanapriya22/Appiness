@@ -1,0 +1,97 @@
+.loginBg {
+    background-color: #f8ede8;
+    padding: 125px 200px;
+    background-size: cover;
+    width: 100%;
+    height: 810px;
+    position: fixed;
+    overflow: hidden;
+}
+.loginSet {
+    height: 560px;
+    border-radius: 10px;
+}
+.bgSet {
+    background-image: linear-gradient(to right, #ed3349 , #f45b43);
+    padding: 15% 45px !important;
+}
+.bgSetWhite {
+    background-color: #FFF;
+    padding: 100px 180px !important;
+}
+.bgSet h1{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #FFF;
+    margin-bottom: 15px;
+    letter-spacing: 4px;
+    text-align: center;  
+}
+.bgSet h2{
+    font-size: 44px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #FFF;
+    margin-bottom: 12px;
+    letter-spacing: 7px;
+    text-align: center;
+}
+.bgSet p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #FFF;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.bgSetWhite h1{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #f45b43;
+    margin-bottom: 55px;
+    letter-spacing: 2px;
+    text-align: center;  
+}
+.bgSetWhite .form-control {
+    height: 45px !important;
+    margin-bottom: 20px;
+}
+.bgSetWhite p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #f45b43;
+    letter-spacing: 1px;
+    text-align: right;     
+}
+.btn-sub {
+    width: 100%;
+    height: 42px;
+    background-color: #f45b43 !important;
+    border-color: #f45b43 !important;
+}
+.bgSetWhite h6{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #585858;
+    text-align: left;  
+    top: 10px;
+    position: relative;
+}
+.form-control:focus {
+    border-color: #ced4da !important;
+    box-shadow: none !important;
+}
+.errorMessage {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #ed3349;
+    text-align: left;
+}

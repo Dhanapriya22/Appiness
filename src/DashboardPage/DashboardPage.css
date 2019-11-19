@@ -1,0 +1,25 @@
+.dashboard_bg {
+    background-color: #f2f2f2;
+    padding: 15px 30px;
+}
+.dashboard_user h1 {
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #272727 !important;
+    letter-spacing: 1px;
+    text-align: right;
+}
+.dashboard {
+    background-color: #fff;
+    padding: 30px 45px;
+}
+.dashboard h2 {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #272727 !important;
+}
+.gXlqCi {
+    display: none !important;
+}
